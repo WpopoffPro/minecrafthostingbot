@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "1_Java.aternos.me:61031",
+    "ip": "1_Java.aternos.me",
     "port": 61031,
     "version": "",
     "try-creative": false
