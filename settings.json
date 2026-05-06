@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "1_ichor.aternos.me",
-    "port": 61425,
+    "ip": "1_Java.aternos.me:61031",
+    "port": 61031,
     "version": "",
     "try-creative": false
   },
