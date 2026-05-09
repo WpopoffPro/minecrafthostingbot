@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Vanilbean",
+    "username": "AFK GOAT",
     "password": "",
     "type": "offline"
   },
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 60,
       "messages": [
-        "I'm Vanilbean",
-        "Hi!",
-        "I like to play MM2"
+        "Testing b",
+        "Testing a",
+        "Testing"
       ]
     },
     "chat-log": true,
@@ -60,7 +60,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -69,11 +69,11 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
-    "enabled": false,
+    "enabled": true,
     "webhookUrl": "https://discord.com/api/webhooks/1501511341104435241/4W4fUql5vEI1GkY8FdPsMd1khxw0xmQ0fMyku7kghWiAaIL7PiVqZayi4rJgffZ86nO9",
     "events": {
       "connect": true,
